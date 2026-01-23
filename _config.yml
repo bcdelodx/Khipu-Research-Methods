@@ -1,21 +1,21 @@
 # site settings
-title: Khipu Research Labs Research Archive
+title: Khipu Research Methods
 subtitle: Methods‑Forward Papers on Economic, Cultural, and Equity‑Aware Modeling
-email: bcdelo@krlabs.dev
+email: info@krlabs.dev
 description: >
   A living research archive publishing multiple, distinct but related papers on
   multi-scale economic modeling, agent-based simulation, cultural systems, and
   equity-relevant policy analysis. The archive prioritizes architectural rigor,
   transparent assumptions, and explicit validation boundaries over predictive claims.
-baseurl: "/cge-abm-equity-framework" # the subpath of your site, e.g. /blog
+baseurl: "/khipu-research-methods" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Brandon Deloatch for Khipu Research Labs
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+street_address: 16192 Coastal Highway
+city: Lewes
+state: DE
+zip_code: 19958
+country: USA
+phone: (302) 417-1441
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
