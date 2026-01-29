@@ -49,7 +49,7 @@ nav-menu: true
 	</section>
 
 	<section>
-		<a href="{{ site.baseurl }}/generic.html" class="image">
+		<a href="{{ site.baseurl }}/methodology.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -62,14 +62,14 @@ nav-menu: true
 					and social dynamics intersect with economic systems.
 				</p>
 				<ul class="actions">
-					<li><a href="{{ site.baseurl }}/generic.html" class="button">Read the Position</a></li>
+					<li><a href="{{ site.baseurl }}/methodology.html" class="button">Read the Position</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 
 	<section>
-		<a href="{{ site.baseurl }}/assets/downloads/" class="image">
+		<a href="{{ site.baseurl }}/register.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -82,7 +82,7 @@ nav-menu: true
 					validation protocols, governance considerations, and implementation guidance.
 				</p>
 				<ul class="actions">
-					<li><a href="{{ site.baseurl }}/assets/downloads/" class="button">Download Reports</a></li>
+					<li><a href="{{ site.baseurl }}/register.html" class="button">Register for Access</a></li>
 				</ul>
 			</div>
 		</div>

@@ -8,7 +8,7 @@ nav-menu: true
 
 **Version:** 2.0 | **Status:** Conceptual Framework — Under Development | **Validation Target:** Q4 2026 - Q1 2027
 
-<a href="{{ site.baseurl }}/assets/downloads/CGE_ABM_Framework_Whitepaper.md" class="button" download>Download Full Report</a>
+<a href="{{ site.baseurl }}/register.html" class="button">Download Full Report (PDF)</a>
 
 ---
 
@@ -130,7 +130,7 @@ The framework demonstrates four scenario templates illustrating analytical capab
 
 The framework is positioned as a **decision-support tool for deliberation**, not a predictive engine. Reference implementation available under Apache 2.0 license.
 
-<a href="{{ site.baseurl }}/assets/downloads/CGE_ABM_Framework_Whitepaper.md" class="button" download>Download Full Whitepaper</a>
+<a href="{{ site.baseurl }}/register.html" class="button">Download Full Whitepaper (PDF)</a>
 
 ---
 
