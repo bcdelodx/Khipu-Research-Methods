@@ -2,7 +2,7 @@
 layout: post
 title: CGE-ABM Framework
 description: A Multi-Scale Approach to Equity Analysis in Cultural-Economic Systems
-image: assets/images/pic01.jpg
+image: assets/images/cge-abm framework image3.png
 nav-menu: true
 ---
 
