@@ -35,7 +35,7 @@ nav-menu: true
 
 	<section>
 		<a href="{{ site.baseurl }}/all_posts.html" class="image">
-			<img src="{% link assets/images/20944226.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/4393.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,12 +55,12 @@ nav-menu: true
 
 	<section>
 		<a href="{{ site.baseurl }}/methodology.html" class="image">
-			<img src="{% link assets/images/4393.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/20943400.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Methodological Position</h3>
+					<h3>Our Position</h3>
 				</header>
 				<p>
 					An explicit stance on abstraction, uncertainty, and the limits of quantification—particularly where cultural

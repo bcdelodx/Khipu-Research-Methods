@@ -9,6 +9,9 @@ show_tile: false
 
 <section id="downloads">
     <div class="inner">
+        <div style="text-align: center; margin-bottom: 2em;">
+            <img src="{{ site.baseurl }}/assets/images/KRLabs_UHDWhite_Logo.png" alt="Khipu Research Labs" style="max-width: 200px; height: auto;" />
+        </div>
         <header class="major">
             <h2>Your Documentation Is Ready</h2>
         </header>

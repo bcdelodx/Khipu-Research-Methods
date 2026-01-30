@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Methodological Position
+title: Our Position
 description: Our stance on abstraction, uncertainty, and the limits of quantification
-image: assets/images/20945194.jpg
+image: assets/images/20943400.jpg
 nav-menu: true
 show_tile: false
 ---

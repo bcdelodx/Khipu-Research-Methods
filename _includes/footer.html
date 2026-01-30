@@ -92,6 +92,13 @@
 			</section>
 			<section>
 				<div class="contact-method">
+					<span class="icon alt fa-globe"></span>
+					<h3>Website</h3>
+					<a href="https://krlabs.dev" target="_blank" rel="noopener noreferrer">krlabs.dev</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
@@ -109,7 +116,7 @@
 					    {{ site.city }},
 					{% endif %}
 					{% if site.state %}
-					    {{ site.state }} 
+					    {{ site.state }}
 					{% endif %}
 					{% if site.zip_code %}
 					    {{ site.zip_code }}<br />
@@ -127,6 +134,11 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<div class="footer-logo" style="margin-bottom: 1.5em; text-align: center;">
+				<a href="{{ "" | absolute_url }}/">
+					<img src="{{ "assets/images/KRLabs_UHDWhite_Logo.png" | absolute_url }}" alt="Khipu Research Labs" style="max-height: 60px; width: auto;" />
+				</a>
+			</div>
 			<ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
@@ -139,10 +151,12 @@
 				{% endfor %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li>&copy; {{ "now" | date: "%Y" }} Khipu Research Labs, LLC. All rights reserved.</li>
+				<li>Khipu Research Labs&trade; and KRL&trade; are trademarks of Khipu Research Labs, LLC.</li>
+			</ul>
+			<ul class="copyright">
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
 			</ul>
 		</div>
 	</footer>
