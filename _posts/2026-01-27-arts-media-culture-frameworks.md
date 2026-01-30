@@ -6,17 +6,31 @@ image: assets/images/cultural-domain.jpg
 nav-menu: false
 ---
 
-**Status:** Coming Soon | **Expected:** Q4 2026
-
-<span class="button disabled">Documentation Coming Soon</span>
+This domain treats cultural dynamics as first-class variables in economic analysis—tools for measuring the economic contribution of creative industries, understanding how media shapes behavior and preferences, and quantifying cultural opportunity and access.
 
 ---
 
-## Overview
+## Available Frameworks
 
-This domain treats cultural dynamics as first-class variables in economic analysis—tools for measuring the economic contribution of creative industries, understanding how media shapes behavior and preferences, and quantifying cultural opportunity and access.
+<div class="row">
+    <div class="12u">
+        <h3><a href="{{ site.baseurl }}/2026/01/22/cge_abm_framework.html">CGE-ABM Framework for Cultural-Economic Systems</a></h3>
+        <p><strong>Status:</strong> In Development | <strong>Validation Target:</strong> Q4 2026 - Q1 2027</p>
+        <p>
+            A multi-scale approach integrating Computable General Equilibrium (CGE) with Agent-Based Modeling (ABM)
+            for equity analysis. Models cultural trait evolution, media influence on behavior, and distributional
+            impacts of policy interventions.
+        </p>
+        <ul class="actions">
+            <li><a href="{{ site.baseurl }}/2026/01/22/cge_abm_framework.html" class="button small">View Summary</a></li>
+            <li><a href="{{ site.baseurl }}/register.html" class="button small special">Download Whitepaper</a></li>
+        </ul>
+    </div>
+</div>
 
-### Planned Capabilities
+---
+
+## Planned Capabilities
 
 **Cultural Economics Measurement**
 - Economic contribution indices for arts and creative sectors
@@ -35,20 +49,19 @@ This domain treats cultural dynamics as first-class variables in economic analys
 
 ---
 
-## Development Status
+## Development Roadmap
 
-| Component | Status |
-|-----------|--------|
-| Economic contribution metrics | Design Phase |
-| Media influence module | In Development (see CGE-ABM) |
-| Cultural opportunity indices | Design Phase |
-| Validation protocols | Not Started |
+| Component | Status | Expected |
+|-----------|--------|----------|
+| CGE-ABM Framework | In Development | Q4 2026 |
+| Cultural Contribution Metrics | Design Phase | Q1 2027 |
+| Cultural Opportunity Indices | Design Phase | Q2 2027 |
 
 ---
 
 ## Stay Updated
 
-Register to receive notifications when this framework documentation becomes available.
+Register to receive notifications when new frameworks in this domain become available.
 
 <a href="{{ site.baseurl }}/register.html" class="button">Register for Updates</a>
 

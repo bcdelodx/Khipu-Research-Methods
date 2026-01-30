@@ -3,7 +3,9 @@ layout: post
 title: CGE-ABM Framework
 description: A Multi-Scale Approach to Equity Analysis in Cultural-Economic Systems
 image: assets/images/cge-abm framework image3.png
-nav-menu: true
+nav-menu: false
+show_tile: false
+category: arts-media-culture
 ---
 
 **Version:** 2.0 | **Status:** Conceptual Framework — Under Development | **Validation Target:** Q4 2026 - Q1 2027
