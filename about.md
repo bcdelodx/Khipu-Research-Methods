@@ -43,6 +43,32 @@ KRL research spans six interconnected domains, each addressing distinct analytic
 
 This breadth enables analysis of complex policy questions that span traditional disciplinary boundaries—such as how financial regulations affect cultural production, or how educational interventions influence long-term economic mobility.
 
+### Who Benefits From Our Work
+
+Our frameworks support diverse stakeholders requiring rigorous, equity-centered analysis:
+
+**Research Institutions & Universities**
+- Reproducible methodology infrastructure for causal inference and impact evaluation
+- Scalable computation for development indices and poverty measurement
+- Cross-domain integration for interdisciplinary research programs
+
+**Government Agencies & Public Sector**
+- Evidence-based policy analysis aligned with statutory evaluation requirements
+- Distributional impact assessment for regulatory and legislative proposals
+- Spatial analysis tools for equity-focused program design
+
+**Nonprofit Organizations & Foundations**
+- Program evaluation infrastructure with built-in equity metrics
+- Cultural and community impact measurement
+- Grant reporting automation with audit-ready documentation
+
+**International Development Organizations**
+- SDG indicator computation and monitoring
+- Multi-scale poverty and human development analysis
+- Climate-equity integration for adaptation planning
+
+Our role is **analytical infrastructure**—we provide the computational foundation that enables rigorous research, not the research conclusions themselves.
+
 ---
 
 ## About Khipu Research Methods
