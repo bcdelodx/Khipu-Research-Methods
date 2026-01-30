@@ -98,8 +98,14 @@ nav-menu: true
 		</header>
 		<p>
 			All materials published here are intended for research, policy exploration, and critical engagement.
+			Our frameworks support analysis across interconnected domains—from socioeconomic development and
+			government policy to financial systems and cultural economics—enabling questions that span
+			traditional disciplinary boundaries.
+		</p>
+		<p>
 			Citation guidance and version histories are provided within individual papers. Full whitepapers are
-			available for download under permissive licensing.
+			available for download under permissive licensing. These are decision-support tools for exploration,
+			not predictive engines or policy prescriptions.
 		</p>
 		<ul class="actions">
 			<li><a href="{{ site.baseurl }}/all_posts.html" class="button next">Explore Frameworks</a></li>

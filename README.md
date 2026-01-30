@@ -14,7 +14,20 @@ Khipu Research Labs develops rigorous, transparent, and accessible research fram
 - **Full Whitepapers** — Complete technical documentation available via registration
 - **Methodological Position** — Our stance on abstraction, uncertainty, and the limits of quantification
 
-## Available Frameworks
+## Research Domains
+
+KRL frameworks span six interconnected research domains:
+
+| Domain | Focus |
+|--------|-------|
+| **Socioeconomic & Academic** | Development indices, poverty measurement, integrated assessment |
+| **Government & Policy** | Regulatory analysis, policy evaluation, program assessment |
+| **Experimental & Research** | Causal inference methods, impact evaluation, research design |
+| **Financial & Economic** | Risk assessment, macroeconomic modeling, financial systems |
+| **Arts, Media & Culture** | Cultural economics, creative industries, media impact |
+| **Integration & Orchestration** | Multi-framework coordination, cross-domain synthesis |
+
+## Available Framework Papers
 
 ### CGE-ABM Framework for Cultural-Economic Systems
 A multi-scale approach integrating Computable General Equilibrium (CGE) models with Agent-Based Modeling (ABM) for equity analysis. The framework enables exploration of how economic policies interact with social and cultural dynamics to produce distributional outcomes.
@@ -25,7 +38,7 @@ A multi-scale approach integrating Computable General Equilibrium (CGE) models w
 - Cultural trait evolution via social networks and media influence
 - Scenario exploration for policy deliberation
 
-*Additional frameworks will be added as development and validation proceed.*
+*Additional framework papers will be published as development and validation proceed.*
 
 ## Site Structure
 

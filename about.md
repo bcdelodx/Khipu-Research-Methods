@@ -28,6 +28,21 @@ Our frameworks integrate multiple methodological traditions:
 - **Network Analysis** for social influence and information diffusion
 - **Distributional Analysis** for equity measurement and decomposition
 
+### Research Domains
+
+KRL research spans six interconnected domains, each addressing distinct analytical needs while sharing common methodological foundations:
+
+| Domain | Focus Area |
+|--------|------------|
+| **Socioeconomic & Academic** | Development indices, poverty measurement, integrated assessment |
+| **Government & Policy** | Regulatory analysis, policy evaluation, program assessment |
+| **Experimental & Research** | Causal inference methods, impact evaluation, research design |
+| **Financial & Economic** | Risk assessment, macroeconomic modeling, financial systems |
+| **Arts, Media & Culture** | Cultural economics, creative industries, media impact |
+| **Integration & Orchestration** | Multi-framework coordination, cross-domain synthesis |
+
+This breadth enables analysis of complex policy questions that span traditional disciplinary boundaries—such as how financial regulations affect cultural production, or how educational interventions influence long-term economic mobility.
+
 ---
 
 ## About Khipu Research Methods

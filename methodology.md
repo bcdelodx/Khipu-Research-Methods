@@ -61,6 +61,18 @@ Culture is not a residual or externality—it is a dynamic system variable that 
 - How cultural values affect economic behavior (consumption, labor supply, policy support)
 - How economic conditions shape cultural attitudes and social cohesion
 
+### 6. Cross-Domain Integration
+
+Policy questions rarely respect disciplinary boundaries. A housing policy affects financial markets, employment patterns, educational access, and community cohesion simultaneously. Our methodological approach supports analysis across interconnected domains:
+
+- **Economic and social systems** — How macroeconomic conditions shape individual opportunity
+- **Policy and implementation** — How regulatory design translates to on-the-ground effects
+- **Research and practice** — How causal inference methods inform real-world decisions
+- **Financial and institutional** — How capital flows interact with community development
+- **Cultural and creative** — How arts and media shape and reflect social dynamics
+
+This cross-domain capability enables questions that single-discipline tools cannot address: How do tax policies affect cultural production? How does media influence shape policy preferences? How do financial regulations impact community resilience?
+
 ---
 
 ## What Our Frameworks Cannot Do
