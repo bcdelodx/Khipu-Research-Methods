@@ -1,18 +1,15 @@
 ---
 layout: home
 title: Home
-landing-title: 'KRL Frameworks: Economic Models, Cultural Systems, and Equity'
-description: 'Methods-forward research on multi-scale modeling, behavioral heterogeneity, and policy-relevant system design.'
+landing-title: 'Analytical Infrastructure for Equity-Centered Research'
+description: 'Computational frameworks that integrate culture, behavior, and distributional equity into rigorous economic analysis.'
 image: null
 author: null
 show_tile: false
 ---
 
-This site serves as the source of truth for Khipu Research Labs (KRL) framework documentation. Each framework is
-presented as an IMRAD-structured summary with downloadable full whitepapers.
+Most economic models treat culture as a residual and equity as an afterthought. Policy questions don't respect those boundaries.
 
-The central concern is structural: how large-scale equilibrium models can be meaningfully extended to account for
-heterogeneity, behavior, and institutional context without collapsing into narrative speculation or false precision.
+KRL frameworks bridge the gap between macroeconomic consistency and the heterogeneous experiences of diverse populations. We build computational infrastructure for research programs that need to model complex systems without false precision—and measure distributional impacts without losing analytical rigor.
 
-Frameworks are released iteratively as validations proceed and assumptions are stress-tested. Click any tile below
-to explore a framework's brief description, then download the complete technical documentation.
+Each framework below includes an IMRAD-structured summary and full technical documentation available for download.

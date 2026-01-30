@@ -16,16 +16,13 @@ nav-menu: true
 
 ### Problem
 
-Understanding societal equity requires analytical frameworks that integrate macroeconomic equilibrium conditions with agent-level heterogeneity. Current approaches fail to bridge these scales coherently:
+Policy analysis faces a persistent structural gap. Macro models provide economy-wide consistency but flatten populations into "representative agents"—averaging away the distributional effects that matter most for equity. Micro models capture heterogeneity but lack the aggregate constraints that keep results economically coherent.
 
-- **CGE models** provide economy-wide consistency but treat populations as homogeneous "representative agents," obscuring distributional outcomes
-- **Agent-based models** capture individual heterogeneity and emergent patterns but lack macroeconomic structure ensuring aggregate consistency
-
-This integration gap limits our ability to analyze how economic policies interact with social and cultural dynamics to produce equity outcomes.
+The tools available today force a choice: rigor at the macro level, or realism at the micro level. For research programs concerned with how policies actually affect different communities, this is an unacceptable trade-off.
 
 ### Objective
 
-This framework integrates a Computable General Equilibrium (CGE) model with an Agent-Based Model (ABM), augmented by equity measurement modules and a media influence component. The goal is **scenario exploration**—examining "what might happen if" questions about policies affecting economic incentives, social influence, and cultural dynamics, with attention to distributional impacts.
+This framework bridges macro and micro scales through bi-directional coupling between a Computable General Equilibrium (CGE) model and an Agent-Based Model (ABM). The goal is **structured scenario exploration**: examining how policies interact with social dynamics to produce equity outcomes, without collapsing into false precision or losing aggregate consistency.
 
 ---
 

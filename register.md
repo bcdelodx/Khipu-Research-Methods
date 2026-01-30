@@ -11,11 +11,11 @@ show_tile: false
 <section id="registration">
     <div class="inner">
         <header class="major">
-            <h2>Access Full Framework Documentation</h2>
+            <h2>Get the Complete Technical Documentation</h2>
         </header>
         <p>
-            Complete the form below to receive download access to KRL framework whitepapers.
-            Your information helps us understand our research community and improve our work.
+            Full whitepapers include detailed methodology, validation protocols, implementation guidance,
+            and governance frameworks—everything needed to evaluate these tools for your research program.
         </p>
 
         <!-- Custom Styled Form - Submits to HubSpot -->
@@ -77,17 +77,20 @@ show_tile: false
 
         <hr class="major" />
 
-        <h3>What You'll Receive</h3>
+        <h3>What's Inside</h3>
         <p>
-            Upon registration, you'll receive access to the complete whitepaper documentation including:
+            Each whitepaper provides the technical depth required for serious evaluation:
         </p>
         <ul>
-            <li>Full technical methodology and system architecture</li>
-            <li>Data sources, assumptions, and validation protocols</li>
-            <li>Scenario templates and implementation guidance</li>
-            <li>Governance frameworks and ethical considerations</li>
-            <li>Updates when new versions are released</li>
+            <li><strong>Complete methodology</strong> — Mathematical specifications, system architecture, and algorithmic details</li>
+            <li><strong>Data documentation</strong> — Sources, assumptions, bias audits, and calibration protocols</li>
+            <li><strong>Validation status</strong> — Current testing results, known limitations, and development roadmap</li>
+            <li><strong>Implementation guidance</strong> — Scenario templates and configuration for your domain</li>
+            <li><strong>Governance frameworks</strong> — Ethical considerations, appropriate use boundaries, and terms</li>
         </ul>
+        <p>
+            Registered users receive updates when new versions are released or validation milestones are reached.
+        </p>
 
         <h3>Privacy</h3>
         <p>

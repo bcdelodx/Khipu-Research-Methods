@@ -10,23 +10,22 @@ show_tile: false
 <section id="downloads">
     <div class="inner">
         <header class="major">
-            <h2>Thank You for Registering</h2>
+            <h2>Your Documentation Is Ready</h2>
         </header>
         <p>
-            Your download access has been confirmed. Select your framework whitepaper below.
-            A confirmation email has also been sent to your address with download links.
+            Download the complete whitepaper below. A confirmation email with the download link has also been sent to your address.
         </p>
 
         <hr class="major" />
 
-        <h3>Available Framework Papers</h3>
+        <h3>Download Your Framework Paper</h3>
 
         <div class="row">
             <div class="12u">
                 <h4>CGE-ABM Framework for Cultural-Economic Systems</h4>
                 <p>
                     A Multi-Scale Approach to Equity Analysis integrating Computable General Equilibrium
-                    with Agent-Based Modeling. Version 2.0 | 444 KB | PDF Format
+                    with Agent-Based Modeling. Version 2.0 | PDF Format
                 </p>
                 <ul class="actions">
                     <li><a href="{{ site.baseurl }}/assets/downloads/CGE_ABM_Framework_Whitepaper.pdf" class="button icon fa-download" download>Download PDF</a></li>
@@ -38,9 +37,24 @@ show_tile: false
 
         <hr class="major" />
 
+        <h3>What's Next?</h3>
+        <p>
+            If this framework fits your research needs, we'd welcome a conversation about how we might support your work:
+        </p>
+        <ul>
+            <li><strong>Technical partnerships</strong> — Computational infrastructure for funded research programs</li>
+            <li><strong>Validation collaboration</strong> — Domain expertise partnerships for empirical calibration</li>
+            <li><strong>Custom configuration</strong> — Framework adaptation for specific policy domains or populations</li>
+        </ul>
+        <p>
+            Contact us at <a href="mailto:info@krlabs.dev">info@krlabs.dev</a> to discuss your use case.
+        </p>
+
+        <hr class="major" />
+
         <h3>Citation</h3>
         <p>
-            If you use this framework in your research, please cite:
+            If you reference this framework in your work:
         </p>
         <blockquote>
             Khipu Research Labs. (2026). <em>Computable General Equilibrium with Agent-Based Modeling
@@ -52,7 +66,7 @@ show_tile: false
 
         <ul class="actions">
             <li><a href="{{ site.baseurl }}/all_posts.html" class="button">View All Frameworks</a></li>
-            <li><a href="{{ site.baseurl }}/" class="button">Return Home</a></li>
+            <li><a href="{{ site.baseurl }}/about.html" class="button">About KRL</a></li>
         </ul>
     </div>
 </section>

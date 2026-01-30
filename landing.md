@@ -1,7 +1,7 @@
 ---
 title: Khipu Research Methods
 layout: landing
-description: 'A living archive of methods-forward research on economic modeling, cultural systems, and equity-aware policy analysis.'
+description: 'Computational frameworks that integrate culture, behavior, and equity into economic analysis—for research programs that refuse to simplify what matters.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -40,11 +40,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>KRL Framework Papers</h3>
+					<h3>Framework Papers</h3>
 				</header>
 				<p>
-					IMRAD-structured summaries of Khipu Research Labs frameworks for economic modeling, cultural systems analysis,
-					and equity-aware policy exploration. Each paper includes download links to full whitepapers.
+					IMRAD-structured summaries that communicate the essential architecture without requiring deep technical expertise.
+					Each paper links to complete documentation for detailed evaluation.
 				</p>
 				<ul class="actions">
 					<li><a href="{{ site.baseurl }}/all_posts.html" class="button">View Frameworks</a></li>
@@ -80,11 +80,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Full Whitepapers</h3>
+					<h3>Technical Whitepapers</h3>
 				</header>
 				<p>
-					Complete technical documentation for each framework, including detailed methodology,
-					validation protocols, governance considerations, and implementation guidance.
+					Complete documentation: mathematical specifications, data sources, validation protocols,
+					implementation guidance, and governance frameworks. Everything needed for serious evaluation.
 				</p>
 				<ul class="actions">
 					<li><a href="{{ site.baseurl }}/register.html" class="button">Register for Access</a></li>
